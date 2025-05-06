@@ -24,7 +24,10 @@ To retrieve data from Kaggle
 
 ## Data Visualization
 - Data visualization was performed in Python
-- Refer to the separate data visualizations in Python for further details
+![Alt text](https://github.com/rxzx115/Employee-Churn/blob/main/Churn%20Rate%20by%20Age%20Group.png)
+![Alt text](https://github.com/rxzx115/Employee-Churn/blob/main/Churn%20Rate%20by%20Top%20States.png)
+![Alt text](https://github.com/rxzx115/Employee-Churn/blob/main/Churn%20Rate%20by%20Department.png)
+![Alt text](https://github.com/rxzx115/Employee-Churn/blob/main/Churn%20Rate%20by%20Tenure.png)
 
 ## Insights and Recommendations
 1. Higher churn rate in the 40-50 age group.
