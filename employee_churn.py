@@ -196,7 +196,7 @@ if len(bins_tenure) > 1:  # Handle case where max tenure is 0
     plt.tight_layout()
     plt.show()
 else:
-    print("Cannot create tenure chart as there is no tenure data or the maximum tenure is 0.")
+    print("Cannot create.")
 
 
 # --- Tenure vs. Age Scatter Plot ---
